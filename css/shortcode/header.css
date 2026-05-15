@@ -19,7 +19,7 @@
   text-transform: uppercase;
 }
 .main-menu > li:hover > a{
-  color: #B23372;
+  color: #c9a227;
 }
 .main-menu li + li {
     margin-left: 36px;
@@ -230,10 +230,10 @@
 .hs-social-icon li a:hover i {
 }
 .hs-social-icon li a:hover i {
-    color: #B23372;
+    color: #c9a227;
 }
 .header-top-left p {
-    color: #B23372;
+    color: #c9a227;
     font-family: Open Sans;
     font-size: 13px;
     height: 56px;
